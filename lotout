@@ -1,0 +1,83 @@
+[33mcommit 9d6ca00207832b9ffb8205a99dd7f131af2cf6dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Constantin <fruty.mcpe228@gmail.com>
+Date:   Tue Oct 27 09:14:04 2026 +0200
+
+    Am adaugat informatia noua
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..aec13e7[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,71 @@[m
+[32m+[m[32m# Materiale de construcție[m
+[32m+[m
+[32m+[m[32mSite web de prezentare pentru un magazin de materiale de construcție. Pagina conține informații despre magazin, serviciile oferite și un catalog de materiale cu prețuri.[m
+[32m+[m
+[32m+[m[32mProiectul este realizat în cadrul lucrării „Gestionarea versiunilor unui proiect software utilizând Git și GitHub".[m
+[32m+[m
+[32m+[m[32m## Descriere[m
+[32m+[m
+[32m+[m[32mMagazinul se prezintă ca partener de încredere în crearea, repararea și îmbunătățirea oricăror obiecte, oferind materiale de înaltă calitate la prețuri competitive.[m
+[32m+[m
+[32m+[m[32mSite-ul este o pagină unică (single page) cu navigare prin secțiuni.[m
+[32m+[m
+[32m+[m[32m## Structura paginii[m
+[32m+[m
+[32m+[m[32m| Secțiune | Conținut |[m
+[32m+[m[32m|----------|----------|[m
+[32m+[m[32m| **Header** | Titlul magazinului și meniul de navigare (Despre noi, Servicii, Catalog, Contacte) |[m
+[32m+[m[32m| **Despre noi** | Scurtă prezentare a magazinului și a scopului acestuia |[m
+[32m+[m[32m| **Serviciile noastre** | Vânzare de materiale de construcții, livrare la domiciliu, consultații de specialitate |[m
+[32m+[m[32m| **Catalogul de materiale** | Carduri cu imagine, denumire și preț pentru fiecare produs |[m
+[32m+[m[32m| **Contacte** | Datele de contact ale magazinului |[m
+[32m+[m
+[32m+[m[32m## Serviciile oferite[m
+[32m+[m
+[32m+[m[32m1. **Vânzare materiale de construcții**: gamă largă, de la cărămizi și ciment până la materiale de finisare și unelte, la prețuri competitive.[m
+[32m+[m[32m2. **Livrare la domiciliu**: livrare rapidă, indiferent de volumul comenzii, la un moment convenabil pentru client.[m
+[32m+[m[32m3. **Consultații de specialitate**: ajutor din partea specialiștilor la alegerea materialelor în funcție de sarcinile clientului.[m
+[32m+[m
+[32m+[m[32m## Catalog[m
+[32m+[m
+[32m+[m[32m| Produs | Preț |[m
+[32m+[m[32m|--------|------|[m
+[32m+[m[32m| Fortan | 500 lei/m³ |[m
+[32m+[m[32m| Ciment | 200 lei/sac |[m
+[32m+[m[32m| Cărămidă | 700 lei/m³ |[m
+[32m+[m[32m| Scânduri | 300 lei/m³ |[m
+[32m+[m
+[32m+[m[32m## Tehnologii utilizate[m
+[32m+[m
+[32m+[m[32m- HTML5: structura paginii[m
+[32m+[m[32m- CSS3: stilizare și aranjarea cardurilor din catalog[m
+[32m+[m[32m- Git și GitHub: controlul versiunilor[m
+[32m+[m
+[32m+[m[32m## Structura proiectului[m
+[32m+[m
+[32m+[m[32m```[m
+[32m+[m[32m.[m
+[32m+[m[32m├── index.html     # pagina principală[m
+[32m+[m[32m├── style.css      # stilurile paginii[m
+[32m+[m[32m├── .gitignore     # fișiere ignorate de Git[m
+[32m+[m[32m└── README.md      # descrierea proiectului[m
+[32m+[m[32m```[m
+[32m+[m
+[32m+[m[32m## Rulare locală[m
+[32m+[m
+[32m+[m[32m1. Clonați repozitoriul:[m
+[32m+[m[32m   ```bash[m
+[32m+[m[32m   git clone https://github.com/NUME_UTILIZATOR/NUME_REPOZITORIU.git[m
+[32m+[m[32m   cd NUME_REPOZITORIU[m
+[32m+[m[32m   ```[m
+[32m+[m[32m2. Deschideți fișierul `index.html` într-un browser.[m
+[32m+[m
+[32m+[m[32mNu sunt necesare instalări suplimentare sau un server web.[m
+[32m+[m
+[32m+[m[32m## Lucrul cu Git[m
+[32m+[m
+[32m+[m[32mProiectul este dezvoltat folosind ramuri separate pentru fiecare componentă (header, footer, contact, stiluri), care sunt integrate în ramura principală `main` prin operația `merge`. Versiunile stabile sunt marcate cu tag-uri (de exemplu, `v1.0`).[m
+[32m+[m
+[32m+[m[32m## Autor[m
+[32m+[m
+[32m+[m[32mPogolsa Constantin, grupa AAW-231[m
