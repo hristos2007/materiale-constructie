@@ -78,6 +78,7 @@ section h2 {
     text-align: center;
     border: 1px solid #ddd;
     padding: 10px;
+    transition: transform 0.3s;
 }
 
 .catalog-item img {
@@ -110,7 +111,7 @@ footer {
         padding: 10px;
     }
 
-    .portfolio-gallery {
+    .catalog-gallery {
         grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     }
 
@@ -140,7 +141,7 @@ footer {
         margin-bottom: 10px;
     }
 
-    .portfolio-gallery {
+    .catalog-gallery {
         grid-template-columns: 1fr;
         gap: 10px;
     }
