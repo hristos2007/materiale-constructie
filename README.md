@@ -68,4 +68,4 @@ Proiectul este dezvoltat folosind ramuri separate pentru fiecare componentă (he
 
 ## Autor
 
-Pogolsa Constantin, grupa AAW-231
+Pogolsa Constantin, grupa AAW-231, anul 2026
