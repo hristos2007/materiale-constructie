@@ -4,7 +4,7 @@ Site web de prezentare pentru un magazin de materiale de construcție. Pagina co
 
 Proiectul este realizat în cadrul lucrării „Gestionarea versiunilor unui proiect software utilizând Git și GitHub".
 
-## Descriere
+## Descriere site-ului
 
 Magazinul se prezintă ca partener de încredere în crearea, repararea și îmbunătățirea oricăror obiecte, oferind materiale de înaltă calitate la prețuri competitive.
 
